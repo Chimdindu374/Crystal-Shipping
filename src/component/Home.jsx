@@ -98,7 +98,7 @@ function Home() {
               <div className="card-body">
                 <h4 className="card-title ">{card.title}</h4>
                 <p className="card-text">{card.content}
-                <a href="#" className="text-danger" style={{textDecoration:'none'}}>Read more</a></p>
+                <a href="#" className="text-danger" style={{textDecoration:'none'}}>...Read more</a></p>
               </div>
             </div>
              </div>
